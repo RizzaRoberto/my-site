@@ -23,7 +23,7 @@
 
       /* 3s — si affaccia a metà */
       setTimeout(function () {
-        svg.style.transform = 'translateX(40px)';
+        svg.style.transform = 'translateX(45px)';
         setTimeout(function () {
           bubble.style.opacity = '1';
         }, 700);
