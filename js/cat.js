@@ -18,7 +18,7 @@
       /* 500ms — sbuca appena: si vedono solo le orecchie */
       setTimeout(function () {
         svg.style.transition = 'transform 1.2s cubic-bezier(.22,1,.36,1)';
-        svg.style.transform  = 'translateX(90px)';
+        svg.style.transform  = 'translateX(105px)';
       }, 500);
 
       /* 3s — si affaccia a metà */
